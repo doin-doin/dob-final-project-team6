@@ -1,0 +1,7 @@
+.github/
+
+tf_backend/
+
+.terraform
+
+.DS_Store
